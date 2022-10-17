@@ -1,0 +1,28 @@
+body {
+    background-color: #FFDD99;
+}
+
+h1 {
+    font-family: "Comic Sans MS";
+    background-color: #FED8B1;
+    padding: 10px;
+}
+
+img {
+    border: 10px;
+}
+
+#highlight {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.top {
+    background-color: orange;
+    padding: 10px;
+}
+
+.fit {
+    height: auto;
+    max-width: 100%;
+}
